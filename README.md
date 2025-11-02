@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Zara Sales Prediction (2024–2025)
 
 ## 👨‍💻 Author
@@ -114,3 +115,7 @@ Slightly lower performance but interpretable.
 ## 💬 Acknowledgement
 Guided learning and mentoring by **ChatGPT (OpenAI)** 🤝  
 Project created as part of continuous growth in **Data Science & Machine Learning.**
+=======
+# zara-sales-prediction-2024-2025
+End-to-end data science project predicting Zara product sales (2024–2025) using Python, EDA, and Machine Learning (Linear Regression &amp; Decision Tree).
+>>>>>>> 0b161954f8930e1d3b56ffe9ee3fd770ca645297
